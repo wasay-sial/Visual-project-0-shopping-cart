@@ -1,0 +1,68 @@
+D:\windows form app\Shopping cart\Shopping cart\bin\Debug\net8.0-windows\Shopping cart.exe
+D:\windows form app\Shopping cart\Shopping cart\bin\Debug\net8.0-windows\Shopping cart.deps.json
+D:\windows form app\Shopping cart\Shopping cart\bin\Debug\net8.0-windows\Shopping cart.runtimeconfig.json
+D:\windows form app\Shopping cart\Shopping cart\bin\Debug\net8.0-windows\Shopping cart.dll
+D:\windows form app\Shopping cart\Shopping cart\bin\Debug\net8.0-windows\Shopping cart.pdb
+D:\windows form app\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Form1.resources
+D:\windows form app\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.csproj.GenerateResource.cache
+D:\windows form app\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.GeneratedMSBuildEditorConfig.editorconfig
+D:\windows form app\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.AssemblyInfoInputs.cache
+D:\windows form app\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.AssemblyInfo.cs
+D:\windows form app\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.csproj.CoreCompileInputs.cache
+D:\windows form app\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.dll
+D:\windows form app\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\refint\Shopping cart.dll
+D:\windows form app\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.pdb
+D:\windows form app\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.genruntimeconfig.cache
+D:\windows form app\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\ref\Shopping cart.dll
+D:\windows form app\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Form2.resources
+D:\windows form app\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Candle_categoeries.resources
+D:\windows form app\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Flower_cat.resources
+E:\Shopping cart demo\Shopping cart\bin\Debug\net8.0-windows\Shopping cart.exe
+E:\Shopping cart demo\Shopping cart\bin\Debug\net8.0-windows\Shopping cart.deps.json
+E:\Shopping cart demo\Shopping cart\bin\Debug\net8.0-windows\Shopping cart.runtimeconfig.json
+E:\Shopping cart demo\Shopping cart\bin\Debug\net8.0-windows\Shopping cart.dll
+E:\Shopping cart demo\Shopping cart\bin\Debug\net8.0-windows\Shopping cart.pdb
+E:\Shopping cart demo\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Candle_categoeries.resources
+E:\Shopping cart demo\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Flower_cat.resources
+E:\Shopping cart demo\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Form1.resources
+E:\Shopping cart demo\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Form2.resources
+E:\Shopping cart demo\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.csproj.GenerateResource.cache
+E:\Shopping cart demo\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shopping cart demo\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.AssemblyInfoInputs.cache
+E:\Shopping cart demo\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.AssemblyInfo.cs
+E:\Shopping cart demo\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.csproj.CoreCompileInputs.cache
+E:\Shopping cart demo\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.dll
+E:\Shopping cart demo\Shopping cart\obj\Debug\net8.0-windows\refint\Shopping cart.dll
+E:\Shopping cart demo\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.pdb
+E:\Shopping cart demo\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.genruntimeconfig.cache
+E:\Shopping cart demo\Shopping cart\obj\Debug\net8.0-windows\ref\Shopping cart.dll
+E:\Shopping cart demo\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Bill_form.resources
+D:\windows form app\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Bill_form.resources
+D:\windows form app\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Tray.resources
+D:\windows form app\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.acc_cat.resources
+E:\Shopping cart\Shopping cart\bin\Debug\net8.0-windows\Shopping cart.exe
+E:\Shopping cart\Shopping cart\bin\Debug\net8.0-windows\Shopping cart.deps.json
+E:\Shopping cart\Shopping cart\bin\Debug\net8.0-windows\Shopping cart.runtimeconfig.json
+E:\Shopping cart\Shopping cart\bin\Debug\net8.0-windows\Shopping cart.dll
+E:\Shopping cart\Shopping cart\bin\Debug\net8.0-windows\Shopping cart.pdb
+E:\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.acc_cat.resources
+E:\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Bill_form.resources
+E:\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Candle_categoeries.resources
+E:\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Flower_cat.resources
+E:\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Form1.resources
+E:\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Form2.resources
+E:\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Tray.resources
+E:\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.csproj.GenerateResource.cache
+E:\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.AssemblyInfoInputs.cache
+E:\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.AssemblyInfo.cs
+E:\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.csproj.CoreCompileInputs.cache
+E:\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.dll
+E:\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\refint\Shopping cart.dll
+E:\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.pdb
+E:\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping cart.genruntimeconfig.cache
+E:\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\ref\Shopping cart.dll
+E:\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Curtain_cat.resources
+E:\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Furn_cat.resources
+D:\windows form app\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Curtain_cat.resources
+D:\windows form app\Shopping cart\Shopping cart\obj\Debug\net8.0-windows\Shopping_cart.Furn_cat.resources
