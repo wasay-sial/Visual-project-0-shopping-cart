@@ -1,1 +1,1 @@
-# Visual-project-0-shopping-cart
+This is a shopping cart project based on windows form app that uses C# and .Net framework 8.0. it has various functioins like add aor remove items from the cart.and also the checkout bill is genrated once a user has selected their desired items.it also provides a listview for the user to see the item they have selected.
